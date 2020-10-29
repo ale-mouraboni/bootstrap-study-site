@@ -8,3 +8,5 @@ Navbar pronta.
 Slider pronto.
 
 Área de about pronta.
+
+Seção de especialidades pronta.
