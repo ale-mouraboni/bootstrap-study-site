@@ -184,3 +184,9 @@ header, .navbar {
     font-size: 21px;
     margin-top: 20px;
 }
+
+/* Time */
+
+.card-body {
+    text-align: center;
+}

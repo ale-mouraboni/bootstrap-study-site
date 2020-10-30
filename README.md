@@ -12,3 +12,5 @@ Slider pronto.
 Seção de especialidades pronta.
 
 Parallax pronto.
+
+Time da empresa pronto.
