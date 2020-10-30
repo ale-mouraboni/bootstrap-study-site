@@ -10,3 +10,5 @@ Slider pronto.
 Área de about pronta.
 
 Seção de especialidades pronta.
+
+Parallax pronto.
