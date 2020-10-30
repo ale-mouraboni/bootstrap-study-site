@@ -115,6 +115,9 @@ $(document).ready(function() {
         
         $('#data-area').parallax({imageSrc: 'assets/img/cidadeparallax.png'});
 
+        // Parallax (Trabalhe Conosco) //
+        $('#apply-area').parallax({imageSrc: 'assets/img/pattern.png'});
+
     }, 250);
 
 });
