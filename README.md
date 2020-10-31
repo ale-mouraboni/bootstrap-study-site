@@ -16,3 +16,5 @@ Parallax pronto.
 Time da empresa pronto.
 
 Grid com outro parallax pronta.
+
+Filtro de imagens pronto.
