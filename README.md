@@ -20,3 +20,5 @@ Grid com outro parallax pronta.
 Filtro de imagens pronto.
 
 Formulário pronto.
+
+Footer pronto.
