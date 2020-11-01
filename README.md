@@ -22,3 +22,5 @@ Filtro de imagens pronto.
 Formulário pronto.
 
 Footer pronto.
+
+Responsivo para Tablets.
