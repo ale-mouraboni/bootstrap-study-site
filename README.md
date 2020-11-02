@@ -24,3 +24,5 @@ Formulário pronto.
 Footer pronto.
 
 Responsivo para Tablets.
+
+Responsivo para Celulares.
