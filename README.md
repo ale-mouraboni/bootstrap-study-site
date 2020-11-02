@@ -1,30 +1,7 @@
-# bootstrap-study-site
+# bootstrap-study-
+
 Site de estudo em bootstrap.
 
-Configurações de bibliotecas e estrutura básica pronta.
+Site feito com base no curso de Bootstrap do Matheus Battisti - Hora de Codar.
 
-Navbar pronta.
-
-Slider pronto.
-
-Área de about pronta.
-
-Seção de especialidades pronta.
-
-Parallax pronto.
-
-Time da empresa pronto.
-
-Grid com outro parallax pronta.
-
-Filtro de imagens pronto.
-
-Formulário pronto.
-
-Footer pronto.
-
-Responsivo para Tablets.
-
-Responsivo para Celulares.
-
-Scroll animado pronto.
+https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze
