@@ -26,3 +26,5 @@ Footer pronto.
 Responsivo para Tablets.
 
 Responsivo para Celulares.
+
+Scroll animado pronto.
