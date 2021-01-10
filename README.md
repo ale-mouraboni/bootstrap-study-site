@@ -27,7 +27,7 @@
 
 ```
 #1 - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/bootstrap-study-site.git
+$ git clone https://github.com/ale-mouraboni/hdc-agency.git
 
 #2 - Abra o index.html
 ```
