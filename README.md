@@ -33,7 +33,9 @@ $ git clone https://github.com/ale-mouraboni/hdc-agency.git
 ```
 
 <h2 id="about">:heavy_check_mark: About</h2>
-<p>Site da hDC Agency feito em bootstrap 4.</br>
+<p>
+Site hDC Agency desenvolvido em bootstrap 4. Este é um site de estudo feito com o intuito de aperfeiçoar minha técnica com o bootstrap 4.
+</br>
 Esse projeto foi desenvolvido no curso de bootstrap do canal Matheus Battisti - Hora de Cordar.
 <h4>Responsive?</h4>
 [x] Yes  [ ] No
