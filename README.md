@@ -1,44 +1,26 @@
-# Demo
-![Demo](readme/demo.png)
-![Demo](readme/demo-2.png)
-![Demo](readme/demo-3.png)
-![Demo](readme/demo-4.png)
-![Demo](readme/demo-5.png)
-![Demo](readme/demo-6.png)
-![Demo](readme/demo-7.png)
-![Demo](readme/demo-8.png)
+![Demo](readme/demo.gif)
 
-## Menu
-* [Tecnologias](#Tecnologias)
-* [Como Utilizar](#Como-Utilizar)
-* [About](#About)
-* [Link do Curso](#Link-do-Curso)
-* [License](#License)
+---
 
-## Tecnologias
-Projeto desenvolvido com as seguintes tecnologias:
+<div style="text-align: justify">
+
+### Descrição
+Esse é um site bem símples desenvolvido com Bootstrap 4. O site foi desenvolvido durante o curso de Bootstrap 4 do canal Matheus Battisti - Hora de Codar, e foi desenvolvido com o intuito de conhecer mais sobre o bootstrap e para desenvolver a minha prática com os códigos.
+
+#### Tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * Bootstrap 4
 * JavaScript
 
-## Como Utilizar
-```
-1. - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/hdc-agency.git
-
-2. - Abra o index.html
-```
-
-## About
-Site hDC Agency desenvolvido em bootstrap 4.  
-Este é um site de estudo feito com o intuito de aperfeiçoar minha técnica com o bootstrap 4.  
-Esse projeto foi desenvolvido no curso de bootstrap do canal **Matheus Battisti - Hora de Cordar.**
-
-### Link do Curso:
+#### Link do Curso:
 
 * [Matheus Battisti - Hora de Codar - Curso de Bootstrap](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
 
-## License
+---
+
+### License
 This project is under the MIT license. See the [LICENSE] for more information.
 
+---
