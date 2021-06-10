@@ -210,7 +210,7 @@ header, .navbar {
     background-image: url('../img/empresa.jpg');
     background-size: cover;
     height: 100%;
-    margin-top: 4px;
+    margin-top: 5px;
 }
 
 #pattern-img h4, #pattern-img p {
@@ -441,7 +441,7 @@ header, .navbar {
 
     /* Geral */
     .container {
-        padding: ;
+        padding: 0;
     }
 
     /* Slider */
